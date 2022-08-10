@@ -1,5 +1,5 @@
 # NETFLIX
-# :point_right: [Click here to see on browser](https://voltran.vercel.app/)
+# :point_right: [Click here to see on browser](https://netflix-ten-red.vercel.app/)
 
 ### I used;
   - <b>HTML</b>
