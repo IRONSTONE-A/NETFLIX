@@ -7,7 +7,7 @@ box-sizing: border-box;
 
 body{
     color:white;
-    background-image: url("background_image.jpg") ;
+    background-image: url("./images/background_image.jpg") ;
 }
 
 #container{
